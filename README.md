@@ -6,10 +6,10 @@ Voici le super blog où les utilisateurs pourront s'enregistrer, créer des arti
 Utiliser rails console dans le terminal pour avoir accès aux BDD.
 
 # Versions
-Ruby 2.5.1 p57
-RoR 5.2.2.
-Active Records
-gem Faker
+- Ruby 2.5.1 p57
+- RoR 5.2.2.
+- Active Records
+- gem Faker
 
 # Auteurs
 - Mathieu PIERRE @Mathieu PIERRE
