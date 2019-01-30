@@ -6,5 +6,5 @@ Voici le super blog où les utilisateurs pourront s'enregistrer, créer des arti
 Utiliser rails console dans le terminal pour avoir accès aux BDD.
 
 
-Mathieu PIERRE @Mathieu PIERRE
-Bérénice Bourgon @Bérénice Merci pour la correction !
+- Mathieu PIERRE @Mathieu PIERRE
+- Bérénice Bourgon @Bérénice Merci pour la correction !
